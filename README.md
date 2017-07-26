@@ -2,7 +2,7 @@
 
 In this repository, I collect everything about algorithms. Descriptions and implementations.
 
-##sorting algorithm
+## sorting algorithm
 
-##search algorithm
+## search algorithm
 
